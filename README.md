@@ -2,7 +2,7 @@
 
 A colorful and interactive Tic-Tac-Toe game powered by Python and Tkinter, featuring AI opponents of varying difficulty levels.
 
-![Game UI](screenshots/game-ui.png)
+![Game UI](screenshots/game.png)
 
 ![Game Level_Choose](screenshots/game-level-choose.png)
 
